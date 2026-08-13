@@ -1,17 +1,9 @@
-# CS3-Repository
-Code Repository for **CS3** Activities
-## Welcome
-Hi! This is Sir JM's code repository. You can actually add more files here. Changes are committed to get saved.
-What I eat
-1. Pizza
-2. Burger
-3. Pasta (Carbonara or Spaghetti or Pesto)
-### Slightly smaller heading
-This was edited on a rainy Thursday morning. Hindi kasi nagdeclare si Mayor.
-This is a cat
-![Siamese Cat](images/cat.PNG)
-### This is a table sample
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+# Trisha Mayelle repo
+SG1 Activity 1 Part B  - Sign up for your own GitHub Account and Create Readme.md
+
+> **Student Information**
+> - **Name:** Trisha Mayelle Fos
+> - **Grade & Section:** Grade 9 - Pinatubo
+> - **Subject:** Computer Science 3
+> - **Instructor:** Mr. John Michael Ibanez
+> - **School:** Philippine Science High School - Central Luzon Campus (PSHS-CLC)
