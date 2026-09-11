@@ -12,14 +12,10 @@ class Technician:
         self.assigned_lab = lab_obj
 
 
-# Create the Lab
 chem_lab = Lab("302")
 
-# Create the Technician
 mr_cruz = Technician("Mr. Cruz")
 
-# Assign the lab to the technician
 mr_cruz.assign_lab(chem_lab)
 
-# Access the lab's room number through the technician
 print(mr_cruz.assigned_lab.room_number)
